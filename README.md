@@ -40,18 +40,13 @@ object **Murilo** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muriloeduardo199&show_icons=true&theme=dracula&line_height=27" alt="**muriloeduardo199** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+[instagram]: https://www.instagram.com/muriloe.eduardo.eng/
+[linkedin]: https://www.linkedin.com/in/murilo-eduardo1993/
 
 <br>
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
