@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Murilo** {
  val name = "Murilo Eduardo dos Santos Lima"
- val acknowledgements = "Desenvolviment, Engenharia de Produção, Engenharia de Software"
+ val acknowledgements = "Desenvolvimento, Engenharia de Produção, Engenharia de Software"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "HTML", "CSS", "BOOTSTRAP")
